@@ -1,0 +1,261 @@
+
+# crono isort (fromto 1 2000);;
+- : float = 4.000000000004e-06
+# crono isort (fromto 1 4000);;
+- : float = 5.99999999997824496e-06
+# crono isort (fromto 1 8000);;
+- : float = 5.00000000000500044e-06
+# crono isort (fromto 1 16000);;
+- : float = 7.00000000000700062e-06
+# crono isort (fromto 1 32000);;
+- : float = 6.99999999997924505e-06
+# crono isort (fromto 1 64000);;
+- : float = 5.00000000000500044e-06
+# crono isort (fromto 1 128000);;
+- : float = 6.00000000000600053e-06
+# crono isort (fromto 1 256000);;
+- : float = 7.00000000000700062e-06
+# crono isort (fromto 1 512000);;
+- : float = 6.00000000000600053e-06
+
+# crono isort_t (from1to 2000);;
+- : float = 0.000349000000000002086
+# crono isort_t (from1to 4000);;
+- : float = 0.00142899999999999971
+# crono isort_t (from1to 8000);;
+- : float = 0.00216700000000000226
+# crono isort_t (from1to 16000);;
+- : float = 0.0024980000000000141
+# crono isort_t (from1to 32000);;
+- : float = 0.00585800000000000209
+# crono isort_t (from1to 64000);;
+- : float = 0.0136410000000000142
+# crono isort_t (from1to 128000);;
+- : float = 0.0433330000000000104
+# crono isort_t (from1to 256000);;
+- : float = 0.0627410000000000467
+# crono isort_t (from1to 512000);;
+- : float = 0.112743999999999955
+
+# crono msort (fromto 1 2000);;
+- : float = 5.00000000000500044e-06
+# crono msort (fromto 1 4000);;
+- : float = 6.00000000000600053e-06
+# crono msort (fromto 1 8000);;
+- : float = 4.99999999997724487e-06
+# crono msort (fromto 1 8000);;
+- : float = 4.99999999997724487e-06
+# crono msort (fromto 1 16000);;
+- : float = 4.99999999997724487e-06
+# crono msort (fromto 1 32000);;
+- : float = 4.99999999997724487e-06
+# crono msort (fromto 1 64000);;
+- : float = 6.00000000000600053e-06
+# crono msort (fromto 1 128000);;
+- : float = 5.00000000000500044e-06
+# crono msort (fromto 1 256000);;
+- : float = 5.00000000003275602e-06
+# crono msort (fromto 1 512000);;
+- : float = 4.99999999997724487e-06
+
+# crono msort_qt (fromto 1 2000);;
+- : float = 6.99999999997924505e-06
+# crono msort_qt (fromto 1 4000);;
+- : float = 7.00000000000700062e-06
+# crono msort_qt (fromto 1 8000);;
+- : float = 3.00000000000300027e-06
+# crono msort_qt (fromto 1 16000);;
+- : float = 7.00000000000700062e-06
+# crono msort_qt (fromto 1 32000);;
+- : float = 5.99999999997824496e-06
+# crono msort_qt (fromto 1 64000);;
+- : float = 5.00000000000500044e-06
+# crono msort_qt (fromto 1 128000);;
+- : float = 6.00000000000600053e-06
+# crono msort_qt (fromto 1 256000);;
+- : float = 6.00000000000600053e-06
+# crono msort_qt (fromto 1 512000);;
+
+# crono qsort (fromto 1 2000);;
+- : float = 5.00000000000500044e-06
+# crono qsort (fromto 1 4000);;
+- : float = 6.00000000000600053e-06
+# crono qsort (fromto 1 8000);;
+- : float = 6.00000000000600053e-06
+# crono qsort (fromto 1 16000);;
+- : float = 5.00000000000500044e-06
+# crono qsort (fromto 1 32000);;
+- : float = 5.00000000000500044e-06
+# crono qsort (fromto 1 64000);;
+- : float = 6.00000000000600053e-06
+# crono qsort (fromto 1 128000);;
+- : float = 6.00000000000600053e-06
+# crono qsort (fromto 1 256000);;
+- : float = 5.00000000000500044e-06
+# crono qsort (fromto 1 512000);;
+- : float = 6.00000000000600053e-06
+
+# crono qsort_qt (fromto 1 2000);;
+- : float = 2.99999999997524469e-06
+# crono qsort_qt (fromto 1 4000);;
+- : float = 6.00000000000600053e-06
+# crono qsort_qt (fromto 1 8000);;
+- : float = 5.99999999997824496e-06
+# crono qsort_qt (fromto 1 16000);;
+- : float = 5.00000000000500044e-06
+# crono qsort_qt (fromto 1 32000);;
+- : float = 4.000000000004e-06
+# crono qsort_qt (fromto 1 64000);;
+- : float = 6.00000000000600053e-06
+# crono qsort_qt (fromto 1 128000);;
+- : float = 5.00000000003275602e-06
+# crono qsort_qt (fromto 1 256000);;
+- : float = 4.99999999997724487e-06
+# crono qsort_qt (fromto 1 512000);;
+- : float = 4.000000000004e-06
+
+# crono isort (rlist_t 1000000 2000);;
+- : float = 0.0417450000000000321
+# crono isort (rlist_t 1000000 4000);;
+- : float = 0.14371
+# crono isort (rlist_t 1000000 8000);;
+- : float = 0.607820000000000138
+# crono isort (rlist_t 1000000 16000);;
+- : float = 2.76706499999999966
+# crono isort (rlist_t 1000000 32000);;
+- : float = 13.3159569999999974
+# crono isort (rlist_t 1000000 64000);;
+- : float = 74.736998
+# crono isort (rlist_t 100000 128000);;
+- : float = 441.343497
+# crono isort (rlist_t 100000 256000);;
+Stack overflow during evaluation (looping recursion?).
+# crono isort (rlist_t 100000 512000);;
+Stack overflow during evaluation (looping recursion?).
+
+# crono isort_t (rlist_t 100000 2000);;
+- : float = 0.0565949999999999509
+# crono isort_t (rlist_t 100000 4000);;
+- : float = 0.221215999999999968
+# crono isort_t (rlist_t 100000 8000);;
+- : float = 0.985781999999999825
+# crono isort_t (rlist_t 100000 16000);;
+- : float = 4.374137
+# crono isort_t (rlist_t 100000 32000);;
+- : float = 21.367122
+# crono isort_t (rlist_t 100000 64000);;
+- : float = 108.350664
+# crono isort_t (rlist_t 100000 128000);;
+- : float = 543.554464
+# crono isort_t (rlist_t 100000 256000);;
+- : float = 2302.00490599999966
+# crono isort_t (rlist_t 100000 512000);;
+- : float = 10609.281170000002
+
+
+# crono msort (rlist_t 100000 2000);;
+- : float = 0.00175600000000031287
+# crono msort (rlist_t 100000 4000);;
+- : float = 0.00498200000004089816
+# crono msort (rlist_t 100000 8000);;
+- : float = 0.0134439999999358406
+# crono msort (rlist_t 100000 16000);;
+- : float = 0.0340170000000625805
+# crono msort (rlist_t 100000 32000);;
+- : float = 0.0828740000000607324
+# crono msort (rlist_t 100000 64000);;
+- : float = 0.150182000000086191
+# crono msort (rlist_t 100000 128000);;
+Stack overflow during evaluation (looping recursion?).
+# crono msort (rlist_t 100000 256000);;
+Stack overflow during evaluation (looping recursion?).
+# crono msort (rlist_t 100000 512000);;
+Stack overflow during evaluation (looping recursion?).
+
+# crono msort_qt (rlist_t 100000 2000);;
+- : float = 0.0072840000000269356
+# crono msort_qt (rlist_t 100000 4000);;
+- : float = 0.00836200000003373134
+# crono msort_qt (rlist_t 100000 8000);;
+- : float = 0.0148140000000012151
+# crono msort_qt (rlist_t 100000 16000);;
+- : float = 0.032332999999994172
+# crono msort_qt (rlist_t 100000 32000);;
+- : float = 0.0970159999999396
+# crono msort_qt (rlist_t 100000 64000);;
+- : float = 0.145253000000025168
+# crono msort_qt (rlist_t 100000 128000);;
+- : float = 0.345168000000057873
+# crono msort_qt (rlist_t 100000 256000);;
+- : float = 0.767842999999970743
+# crono msort_qt (rlist_t 100000 512000);;
+- : float = 1.73450800000000527
+
+# crono qsort (rlist_t 100000 2000);;
+- : float = 0.0085790000000542932
+# crono qsort (rlist_t 100000 4000);;
+- : float = 0.00671199999999316788
+# crono qsort (rlist_t 100000 8000);;
+- : float = 0.0156569999999192078
+# crono qsort (rlist_t 100000 16000);;
+- : float = 0.034097999999971762
+# crono qsort (rlist_t 100000 32000);;
+- : float = 0.0753709999999046
+# crono qsort (rlist_t 100000 64000);;
+- : float = 0.225332999999977801
+# crono qsort (rlist_t 100000 128000);;
+- : float = 0.462914000000068881
+# crono qsort (rlist_t 100000 256000);;
+- : float = 0.961462999999980639
+# crono qsort (rlist_t 100000 512000);;
+Stack overflow during evaluation (looping recursion?).
+
+# crono qsort_qt (rlist_t 100000 2000);;
+- : float = 0.00276800000006005575
+# crono qsort_qt (rlist_t 100000 4000);;
+- : float = 0.00630400000000008731
+# crono qsort_qt (rlist_t 100000 8000);;
+- : float = 0.0241680000000314976
+# crono qsort_qt (rlist_t 100000 16000);;
+- : float = 0.0362560000000939908
+# crono qsort_qt (rlist_t 100000 32000);;
+- : float = 0.0883329999999205
+# crono qsort_qt (rlist_t 100000 64000);;
+- : float = 0.206477999999833628
+# crono qsort_qt (rlist_t 100000 128000);;
+- : float = 0.376692999999932
+# crono qsort_qt (rlist_t 100000 256000);;
+- : float = 0.914144000000078449
+# crono qsort_qt (rlist_t 100000 512000);;
+- : float = 1.83788600000002589
+
+Complejidad computacional de insertion sort:
+  Peor caso: O(n^2)
+  Caso promedio: O(n^2)
+  Mejor caso: O(n)
+
+  Los resultados obtenidos al ejecutar insertion sort se corresponden con su complejidad teórica
+  aunque en el caso de la inicialización en orden ascendiente de la lista (mejor caso) los tiempos
+  obtenidos fueron tan bajos que es probable que las mediciones de tiempos no sean del todo precisas.
+  Ya que trabaja constantemente con la lista entera es necesario hacerlo recursivo terminal para poder trabajar con listas de gran tamaño
+  Insertion sort es claramente peor que los otros algoritmos en cualquier caso salvo en el mejor caso.
+
+Complejidad computacional de merge sort:
+  Peor caso: O(n * log(n))
+  Caso promedio: O(n * log(n))
+  Mejor caso: O(n * log(n))
+
+  Los resultados obtenidos al ejecutar merge sort se corresponden con su complejidad teórica, siendo uniforme en cualquiera de las inicializaciones de la lista.
+  Sus resultados se equiparan a los casos medio y mejor del quick sort y supera ampliamente al insertion sort a excepción del mejor caso.
+  Ya que en las última iteración del algoritmo trabaja con la lista entera si es necesario hacerlo recursivo terminal para poder trabajar con listas de gran tamaño.
+
+Complejidad computacional de quick sort:
+  Peor caso: O(n ^ 2)
+  Caso promedio: O(n * log(n))
+  Mejor caso: O(n * log(n))
+
+  Los resultados obtenidos al ejecutar quick sort se corresponden con su complejidad teórica.
+  Quick sort obtiene resultados apenas diferenciables entre el mejor y el caso promedio.
+  El algoritmo presenta resultados similares al merge sort
+  De los tres algoritmos es el que menos riesgo supone para trabajar con listas grandes, ya que al ser
+  un algoritmo del esquema "divide and conquer" divide la lista en otras más pequeñas con las que obtiene listas parcialmente ordenadas.
